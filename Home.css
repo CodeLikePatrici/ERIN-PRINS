@@ -1,0 +1,30 @@
+h3 {
+    font-size: xx-large;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.HomeBody {
+    background-image: url(./Space.jpg);
+}
+
+img {
+    border-radius: 30px;
+    grid-column: 1;
+    width: 100%;
+}
+
+p {
+    font-family: cursive;
+    text-transform: uppercase;
+    grid-column: 2;
+    padding: 20px;
+    border-style: solid;
+    margin-left: 15px;
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.Section1 {
+    display: grid;
+}
